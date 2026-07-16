@@ -1,0 +1,28 @@
+SVN
+Github
+
+Git Command
+
+git init
+git clone
+git push
+git pull
+git rebase
+git add
+git commit
+git branch
+git status
+git checkout
+git cherry-pick
+git stash
+git log
+
+Git Workflow
+
+
+remote/local 
+
+Env
+main -> production
+develop -> development
+release -> release => release-0.0.1
